@@ -1,0 +1,65 @@
+2023-09-11 21:21:05 Server started!
+2023-09-11 21:22:29 Server started!
+2023-09-11 21:23:01 The client is asked to enter his nickname
+2023-09-11 21:23:59 Sasha cames now
+2023-09-11 21:24:03 Sasha: Hi all!
+2023-09-11 21:24:05 Sasha has left
+2023-09-11 21:24:05 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-11 21:24:05 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-11 21:25:48 Server started!
+2023-09-11 21:25:53 The client is asked to enter his nickname
+2023-09-11 21:25:56 The client is asked to enter his nickname
+2023-09-11 21:25:59 The client is asked to enter his nickname
+2023-09-11 21:26:04 Sasha cames now
+2023-09-11 21:26:07 Vasya cames now
+2023-09-11 21:26:10 Inna cames now
+2023-09-11 21:26:14 Inna: Hi all!
+2023-09-11 21:26:21 Vasya: Hi, Inna!)
+2023-09-11 21:26:31 Sasha: Hi, guys! How are u?
+2023-09-11 21:26:53 Vasya: Fine, ty. I'm doing my homework now -_-
+2023-09-11 21:27:02 Inna: heh, me too(
+2023-09-11 21:27:19 Vasya: Sorry, I need to go away. Bye!
+2023-09-11 21:27:21 Vasya has left
+2023-09-11 21:27:21 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-11 21:27:21 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-11 21:27:26 Inna: bye
+2023-09-11 21:27:43 Inna: ah, he's already gone
+2023-09-11 21:27:57 Inna: goodbye all in this chat!
+2023-09-11 21:27:58 Inna has left
+2023-09-11 21:27:58 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-11 21:27:58 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-11 21:28:08 Sasha: I'm alone again((
+2023-09-11 21:28:10 Sasha has left
+2023-09-11 21:28:10 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-11 21:28:10 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-11 21:44:53 Netology test message.
+2023-09-11 21:48:42 Netology test message.
+2023-09-11 21:52:04 Netology test message.
+2023-09-11 21:52:32 Netology test message.
+2023-09-11 21:54:47 Netology test message.
+2023-09-11 21:55:27 Netology test message.
+2023-09-11 21:56:25 Second test message.
+2023-09-12 15:29:09 Server started!
+2023-09-12 15:29:13 The client is asked to enter his nickname
+2023-09-12 15:29:16 Sasha cames now
+2023-09-12 15:29:48 Class error ru.netology.dolgosheev.client.Client
+2023-09-12 15:29:48 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-12 15:29:58 Class error ru.netology.dolgosheev.client.Client
+2023-09-12 15:29:58 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-12 15:30:03 Server started!
+2023-09-12 15:30:07 The client is asked to enter his nickname
+2023-09-12 15:30:09 Sasha cames now
+2023-09-12 15:30:15 The client is asked to enter his nickname
+2023-09-12 15:30:17 Inna cames now
+2023-09-12 15:30:22 Sasha: Hi
+2023-09-12 15:30:25 Inna: Hi
+2023-09-12 15:30:30 Sasha: How are you?
+2023-09-12 15:30:35 Inna: Fine and you?
+2023-09-12 15:30:39 Sasha: me2)
+2023-09-12 15:30:43 Sasha: bye!
+2023-09-12 15:30:45 Sasha has left
+2023-09-12 15:30:45 Closing thread for a class ru.netology.dolgosheev.client.Client
+2023-09-12 15:30:45 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-12 15:30:48 Inna has left
+2023-09-12 15:30:48 Closing thread for a class ru.netology.dolgosheev.server.Server$Connection
+2023-09-12 15:30:48 Closing thread for a class ru.netology.dolgosheev.client.Client
