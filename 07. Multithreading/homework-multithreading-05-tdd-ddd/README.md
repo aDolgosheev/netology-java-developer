@@ -8,7 +8,7 @@
 
 Нужно выполнить и отправить на проверку задачу:
 
-1. [Телефонная книга](./task1/README.md).
+1. [Телефонная книга](https://github.com/netology-code/jd-homeworks/blob/video/tdd_ddd/task1/README.md)
 
 =======
 

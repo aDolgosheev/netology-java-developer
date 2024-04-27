@@ -2,8 +2,8 @@
 
 Выполните и отправьте на проверку решение задач: 
 
-1. [Сервис авторизации](./task1/README.md).
-2. [Продвинутый сервис авторизации*](./task2/README.md) (задача со звёздочкой).
+1. [Сервис авторизации](https://github.com/netology-code/jd-homeworks/blob/master/spring_boot_rest/task1/README.md)
+2. [Продвинутый сервис авторизации*](https://github.com/netology-code/jd-homeworks/blob/master/spring_boot_rest/task2/README.md) (задача со звёздочкой *).
 
 =======
 

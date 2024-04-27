@@ -10,7 +10,7 @@
 
 Нужно выполнить и отправить на проверку задачу:
 
-1. [Генерация никнеймов](./task1/README.md).
+1. [Генерация никнеймов](https://github.com/netology-code/jd-homeworks/blob/video/volatile/task1/README.md)
 
 =======
 

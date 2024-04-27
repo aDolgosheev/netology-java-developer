@@ -2,9 +2,9 @@
 
 Нужно выполнить и отправить на проверку задачи:
 
-1. [Слой DAO c Hibernate](task1/README.md).
-1. [Две таблицы с Hibernate*](task2/README.md) (задача со звёздочкой).
-1. [Миграции c Hibernate*](task3/README.md) (задача со звёздочкой).
+1. [Слой DAO c Hibernate](https://github.com/netology-code/jd-homeworks/blob/master/hibernate/task1/README.md)
+1. [Две таблицы с Hibernate*](https://github.com/netology-code/jd-homeworks/blob/master/hibernate/task2/README.md) (задача со звёздочкой *)
+1. [Миграции c Hibernate*](https://github.com/netology-code/jd-homeworks/blob/master/hibernate/task3/README.md) (задача со звёздочкой *)
 
 =======
 ## Инструкция по выполнению домашнего задания

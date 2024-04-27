@@ -2,8 +2,8 @@
 
 Нужно выполнить и отправить на проверку задачи:
 
-1. [Слой DAO (Data Access Object)](task1/README.md).
-1. [Миграции*](task2/README.md) (задача со звёздочкой).
+1. [Слой DAO (Data Access Object)](https://github.com/netology-code/jd-homeworks/blob/master/jdbc/task1/README.md)
+1. [Миграции*](https://github.com/netology-code/jd-homeworks/blob/master/jdbc/task2/README.md) (задача со звёздочкой *).
 
 =======
 

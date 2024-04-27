@@ -10,8 +10,8 @@
 
 Нужно выполнить и отправить на проверку задачи:
 
-1. [Робот-доставщик](./task1/README.md).	
-2. [Частота операций*](./task2/README.md) (задача со звёздочкой ).
+1. [Робот-доставщик](https://github.com/netology-code/jd-homeworks/blob/video/synchronization/task1/README.md)	
+2. [Частота операций*](https://github.com/netology-code/jd-homeworks/blob/video/synchronization/task2/README.md) (задача со звёздочкой *)
 
 =======
 

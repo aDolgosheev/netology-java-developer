@@ -12,8 +12,8 @@
 
 Нужно выполнить и отправить на проверку задачи:
 
-1. [Интервал значений](./task1/README.md).	
-2. [Максимальный интервал значений*](./task2/README.md) (задача со звёздочкой).
+1. [Интервал значений](https://github.com/netology-code/jd-homeworks/blob/video/multithreading/task1/README.md)	
+2. [Максимальный интервал значений*](https://github.com/netology-code/jd-homeworks/blob/video/multithreading/task2/README.md) (задача со звёздочкой *)
 
 =======
 
