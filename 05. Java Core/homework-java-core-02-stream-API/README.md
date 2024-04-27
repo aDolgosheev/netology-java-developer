@@ -2,8 +2,8 @@
 
 Необходимо выполнить следующие задачи:
 
-1. [Работа с числами](./task1/README.md);	
-2. [Перепись населения](./task2/README.md);
+1. [Работа с числами](https://github.com/netology-code/jd-homeworks/blob/master/streams/task1/README.md)	
+2. [Перепись населения](https://github.com/netology-code/jd-homeworks/blob/master/streams/task2/README.md)
 
 ## Инструкция по выполнению домашнего задания
 

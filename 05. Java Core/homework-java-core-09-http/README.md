@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Запрос на получение списка фактов о кошках](./task1/README.md);	
-2. [Чтение данных API NASA](./task2/README.md) (задача со звездочкой *).
+1. [Запрос на получение списка фактов о кошках](https://github.com/netology-code/jd-homeworks/blob/master/http/task1/README.md)
+2. [Чтение данных API NASA](https://github.com/netology-code/jd-homeworks/blob/master/http/task2/README.md) (задача со звездочкой *)
 
 =======
 

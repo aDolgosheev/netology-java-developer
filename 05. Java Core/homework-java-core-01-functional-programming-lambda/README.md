@@ -2,8 +2,8 @@
 
 Необходимо выполнить следующие задачи:
 
-1. [Калькулятор](./task1/README.md);	
-2. [Работяга](./task2/README.md).
+1. [Калькулятор](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task1/README.md)	
+2. [Работяга](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task2/README.md)
 
 
 ## Инструкция по выполнению домашнего задания

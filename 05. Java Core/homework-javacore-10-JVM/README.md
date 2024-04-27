@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Понимание JVM](./task1/README.md);	
-2. [Исследование JVM через VisualVM](./task2/README.md) (задача со звездочкой *).
+1. [Понимание JVM](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task1/README.md)
+2. [Исследование JVM через VisualVM](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task2/README.md) (задача со звездочкой *)
 
 =======
 

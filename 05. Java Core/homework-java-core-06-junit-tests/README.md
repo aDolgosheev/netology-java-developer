@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Использование JUnit](./task1/README.md);	
-2. [JUnit + Hamcrest](./task2/README.md) (задача со звездочкой *).
+1. [Использование JUnit](https://github.com/netology-code/jd-homeworks/blob/master/junit/task1/README.md)	
+2. [JUnit + Hamcrest](https://github.com/netology-code/jd-homeworks/blob/master/junit/task2/README.md) (задача со звездочкой *)
 
 =======
 
