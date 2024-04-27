@@ -12,21 +12,21 @@
 
 ## Блок №4 [«Алгоритмы и структуры данных»](https://github.com/netology-code/algo-homeworks/blob/algo-4/README.md)
 
-## Блок №3. [«Java Core»](/05.%20Java%20Core/)
+## Блок №5. [«Java Core»](/05.%20Java%20Core/README.md)
 
-## Блок №4. [«Шаблоны проектирования»](src/main/java/ru/netology/patterns)
+## Блок №6. [«Шаблоны проектирования»](/06.%20Patterns/README.md)
 
-## Блок №5. [«Многопоточное и функциональное программирование»](src/main/java/ru/netology/multithreading)
+## Блок №7. [«Многопоточное и функциональное программирование»](/07.%20Multithreading/README.md)
 
-## Блок №6. [«Web, Spring & Spring MVC»](src/main/java/ru/netology/web_spring_springmvc)
+## Блок №8. [«Web, Spring & Spring MVC»](/08.%20Web,%20Spring%20&%20Spring%20MVC/README.md)
 
-## Блок №7. [«Spring Boot, deployment и инфраструктура»](src/main/java/ru/netology/springboot_deployment_infrastructure)
+## Блок №9. [«Spring Boot, deployment и инфраструктура»](/09.%20Spring%20Boot,%20deployment,%20infrastructure/README.md)
 
-## Блок №8. [«Хранение данных и организация безопасности»](src/main/java/ru/netology/database_jpa_security)
+## Блок №10. [«Хранение данных и организация безопасности»](/10.%20SQL,%20security/README.md)
 
-## Курсовой проект 1. [«Сетевой чат»](https://github.com/frepingod/netology-network-chat)
+## Курсовой проект 1. [«Сетевой чат»](/Final%20projects/course-project-network-chat/README.md)
 
-## Курсовой проект 2. [«Сервис перевода денег»](https://github.com/frepingod/netology-transfer-money)
+## Курсовой проект 2. [«Сервис перевода денег»](/Final%20projects/course-project-money-transfer-service/README.md)
 
-## Дипломная работа [«Облачное хранилище»](https://github.com/frepingod/netology-cloud-storage)
+## Дипломная работа [«Облачное хранилище»](/Final%20projects/graduate-work-cloud-service/README.md)
 
