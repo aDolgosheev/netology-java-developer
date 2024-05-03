@@ -1,4 +1,4 @@
-# [Курсовой проект "Сетевой чат"](https://github.com/netology-code/jd-homeworks/blob/master/diploma/networkchat.md)
+# [Курсовой проект "Сетевой чат"](https://github.com/aDolgosheev/netology-java-developer/tree/main/Final%20projects/course-project-network-chat)
 
 
 ## Краткое описание проекта
