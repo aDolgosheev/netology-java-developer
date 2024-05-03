@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Многомодульный проект на Maven](https://github.com/netology-code/jd-homeworks/blob/master/builders/task1/README.md)
-2. [Многомодульный проект на Gradle](https://github.com/netology-code/jd-homeworks/blob/master/builders/task2/README.md)
+1. [Многомодульный проект на Maven](/05.%20Java%20Core/homework-java-core-04-maven-gradle/homework-java-core-04-maven/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/builders/task1/README.md))
+2. [Многомодульный проект на Gradle](/05.%20Java%20Core/homework-java-core-04-maven-gradle/homework-java-core-04-gradle/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/builders/task2/README.md))
 
 ## Инструкция по выполнению домашнего задания
 

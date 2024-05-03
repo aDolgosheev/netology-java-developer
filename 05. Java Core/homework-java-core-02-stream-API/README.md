@@ -2,8 +2,8 @@
 
 Необходимо выполнить следующие задачи:
 
-1. [Работа с числами](https://github.com/netology-code/jd-homeworks/blob/master/streams/task1/README.md)	
-2. [Перепись населения](https://github.com/netology-code/jd-homeworks/blob/master/streams/task2/README.md)
+1. [Работа с числами](/05.%20Java%20Core/homework-java-core-02-stream-API/src/javacore/homework_02/task_01/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/streams/task1/README.md))
+2. [Перепись населения](/05.%20Java%20Core/homework-java-core-02-stream-API/src/javacore/homework_02/task_02/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/streams/task2/README.md))
 
 ## Инструкция по выполнению домашнего задания
 

@@ -2,8 +2,8 @@
 
 Необходимо выполнить следующие задачи:
 
-1. [Калькулятор](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task1/README.md)	
-2. [Работяга](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task2/README.md)
+1. [Калькулятор](/05.%20Java%20Core/homework-java-core-01-functional-programming-lambda/homework-java-core-01-001/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task1/README.md))
+2. [Работяга](/05.%20Java%20Core/homework-java-core-01-functional-programming-lambda/homework-java-core-01-002/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task2/README.md))
 
 
 ## Инструкция по выполнению домашнего задания

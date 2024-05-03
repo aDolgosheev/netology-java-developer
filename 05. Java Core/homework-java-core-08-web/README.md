@@ -2,8 +2,10 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Клиент-серверное приложение](https://github.com/netology-code/jd-homeworks/blob/master/network/task1/README.md)
-2. [Клиент-сервер с рюшечками](https://github.com/netology-code/jd-homeworks/blob/master/network/task2/README.md) (задача со звездочкой *)
+[Ссылка напроект](/05.%20Java%20Core/homework-java-core-08-web/)
+
+1. Клиент-серверное приложение ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/network/task1/README.md))
+2. Клиент-сервер с рюшечками (задача со звездочкой *) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/network/task2/README.md))
 
 =======
 

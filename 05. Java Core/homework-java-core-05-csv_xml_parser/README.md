@@ -2,9 +2,10 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [CSV - JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task1/README.md)	
-2. [XML - JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task2/README.md)
-3. [JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task3/README.md) (задание со звездочкой *)
+[Ссылка на проект](/05.%20Java%20Core/homework-java-core-05-csv_xml_parser/)
+1. CSV - JSON парсер ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task1/README.md))
+2. XML - JSON парсер([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task2/README.md))
+3. JSON парсер (задание со звездочкой *) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task3/README.md))
 
 =======
 

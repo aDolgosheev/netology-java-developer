@@ -2,9 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Установка](https://github.com/netology-code/jd-homeworks/blob/master/files/task1/README.md)	
-2. [Сохранение](https://github.com/netology-code/jd-homeworks/blob/master/files/task2/README.md)
-3. [Загрузка](https://github.com/netology-code/jd-homeworks/blob/master/files/task3/README.md) (со звездочкой *)
+1. [Установка](/05.%20Java%20Core/homework-java-core-03-serialization/src/task_01/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/files/task1/README.md))
+2. [Сохранение](/05.%20Java%20Core/homework-java-core-03-serialization/src/task_02/) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/files/task2/README.md))
+3. [Загрузка](/05.%20Java%20Core/homework-java-core-03-serialization/src/task_03/) (со звездочкой *) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/files/task3/README.md))
 
 =======
 

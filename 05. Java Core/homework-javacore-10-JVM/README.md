@@ -2,8 +2,10 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Понимание JVM](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task1/README.md)
-2. [Исследование JVM через VisualVM](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task2/README.md) (задача со звездочкой *)
+[Ссылка на проект](/05.%20Java%20Core/homework-javacore-10-JVM/)
+
+1. Понимание JVM ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task1/README.md))
+2. Исследование JVM через VisualVM (задача со звездочкой *) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/jvm/task2/README.md))
 
 =======
 

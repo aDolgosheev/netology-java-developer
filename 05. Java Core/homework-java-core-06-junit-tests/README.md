@@ -2,8 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Использование JUnit](https://github.com/netology-code/jd-homeworks/blob/master/junit/task1/README.md)	
-2. [JUnit + Hamcrest](https://github.com/netology-code/jd-homeworks/blob/master/junit/task2/README.md) (задача со звездочкой *)
+[Ссылка на проект](/05.%20Java%20Core/homework-java-core-06-junit-tests/)
+1. Использование JUnit ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/junit/task1/README.md))
+2. JUnit + Hamcrest (задача со звездочкой *) ([задание на Нетологии](https://github.com/netology-code/jd-homeworks/blob/master/junit/task2/README.md))
 
 =======
 
